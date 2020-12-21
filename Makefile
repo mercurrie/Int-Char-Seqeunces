@@ -1,5 +1,6 @@
 a4s1: sequence.o sequenceTest.o
 	g++ sequenceTest.o -o a4s1
+
 sequenceTest.o: sequenceTest.cpp sequence.template sequence.h
 	g++ -Wall -ansi -pedantic -std=c++11 -c sequenceTest.cpp
 
