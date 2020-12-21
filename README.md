@@ -10,8 +10,8 @@
 > Motivation: To familarize myself more with Object Oriented Programming.
 
 # Compile/run instructions
-> g++ sequence.cpp -o run
-> run
+* g++ sequence.cpp -o run
+* run
 
 # Makefile
 > makefile contains linux commands to test code and clean files. 
