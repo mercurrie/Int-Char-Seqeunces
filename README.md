@@ -6,5 +6,12 @@
 # Technologies
 > C++
 
-#General Info
+# General Info
 > Motivation: To familarize myself more with Object Oriented Programming.
+
+# Compile/run instructions
+* g++ sequenceTest.cpp -o run
+* run
+
+# Makefile
+> makefile contains linux commands to test code and clean files. 
