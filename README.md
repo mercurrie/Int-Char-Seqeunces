@@ -10,7 +10,7 @@
 > Motivation: To familarize myself more with Object Oriented Programming.
 
 # Compile/run instructions
-* g++ sequence.cpp -o run
+* g++ sequenceTest.cpp -o run
 * run
 
 # Makefile
