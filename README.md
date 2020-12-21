@@ -11,7 +11,7 @@
 
 # Compile/run instructions
 > g++ sequence.cpp -o run
- run
+> run
 
 # Makefile
 > makefile contains linux commands to test code and clean files. 
